@@ -78,7 +78,7 @@ docker run -w /root -it --rm alpine:edge sh -uelic '
 
 </details>
 
-<details><summary>Install the <a href="https://github.com/LazyVim/starter">LazyVim Starter</a></summary>
+<details><summary>Install the <a href="https://github.com/ginderick/starter">LazyVim Starter</a></summary>
 
 - Make a backup of your current Neovim files:
 
