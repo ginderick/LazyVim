@@ -61,6 +61,7 @@ return {
       window = {
         mappings = {
           ["<space>"] = "none",
+          ["<Tab>"] = "open",
         },
       },
       default_component_configs = {
